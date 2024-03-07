@@ -1,0 +1,50 @@
+.principal {
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja{
+    background-color: aqua;
+    width: 300px;
+    height: 600px;
+    margin: 5px;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.primero{
+    background-color: rgb(255, 0, 0);
+    
+    width: 40px;
+    height: 120px;
+    margin: 27px;
+}
+.a{
+    background-color: rgb(248, 221, 100);
+    
+    width: 230px;
+    height: 40px;
+    margin: 26px;
+}
+.b{
+    background-color: rgb(255, 0, 0);
+    
+    width: 40px;
+    height: 120px;
+    margin: 27px;
+}
+.segundo{
+    background-color: rgb(132, 100, 248);
+    
+    width: 230px;
+    height: 60px;
+    margin: 26px;
+}
+.tercero{
+    background-color: rgb(255, 0, 179);
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+}
